@@ -5,6 +5,7 @@ This machine learning project aims to address this pressing need by developing a
 Data Source: https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021
 
 Power BI Dashboard: [![image](https://github.com/vaishsr005/Forecasting-Netflix-Box-office-Success/assets/157328840/4cb2ed55-31a8-49ba-bf9f-16414b714d07)](https://app.powerbi.com/groups/me/reports/b5738ef3-9495-4826-97cd-3079e014959c/ReportSection?ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9&experience=power-bi)https://app.powerbi.com/groups/me/reports/b5738ef3-9495-4826-97cd-3079e014959c/ReportSection?ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9&experience=power-bi
+![Netflix_dashboard](https://github.com/vaishsr005/Forecasting-Netflix-Box-office-Success/assets/157328840/db36f6a9-ea44-477c-98d3-76a8d0babf87)
 
 
 ![image](https://github.com/vaishsr005/Forecasting-Netflix-Box-office-Success/assets/157328840/d5b57208-d22d-40f8-a268-3a0b009e9936)
